@@ -8,3 +8,5 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+misc line just go check git
