@@ -10,3 +10,6 @@ git log
 Git diff <filename>
 
 misc line just go check git
+
+
+privatebranch2 change
