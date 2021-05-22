@@ -1,0 +1,13 @@
+git status -> prints status of the git repository
+git init -> initializes the git repository
+git config --global user.name "Let's Kode It"
+git config --global user.email "user@email.com"
+git config user name "Let's Kode It"
+git config user.email user@email.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
+
+misc line just go check git
+modified again bruh
